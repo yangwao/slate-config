@@ -8,28 +8,28 @@
 ---
 ### Quick Manual
 
-* LShift + CMD ⌘  + 
+##### * LShift + CMD ⌘  + 
  
-   H left half
+   **H** left half
 
-   L right half
+   **L** right half
 
-   B left-down quarter
+   **B** left-down quarter
 
-   . right-down quarter
+   **.** right-down quarter
 
-   O right-up quarter
+   **O** right-up quarter
 
-   Y left-up quarter
+   **Y** left-up quarter
 
-   C left-third
+   **C** left-third
 
-   V left-two-thirds
+   **V** left-two-thirds
 
-   M right-two-thirds
+   **M** right-two-thirds
+
+   **,** right-third
+
+#### * Alt + CMD ⌘ +
    
-   , right-third
-
-* Alt + CMD ⌘ +
-   
-  K upper half
+   **K** upper half
