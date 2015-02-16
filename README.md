@@ -1,4 +1,4 @@
-# slate
+# Slate config
 [Slate](https://github.com/jigish/slate) config for hackers (tiling) window manager for Macs i.e. save your time
 
 ---
@@ -22,6 +22,6 @@
    **,** right third  
    **J** bottom half  
 
-#### LAlt + CMD ⌘ +
+##### LAlt + CMD ⌘ +
    
    **K** upper half
