@@ -28,7 +28,7 @@
 
 ##### LCtrl ^ + LAlt + CMD ⌘ +
 
-  **←** moves window to left screen
-  **→** moves window to right screen
+  **←** moves window to left screen  
+  **→** moves window to right screen  
 
 
