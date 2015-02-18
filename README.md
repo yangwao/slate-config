@@ -31,4 +31,6 @@
   **←** moves window to left screen  
   **→** moves window to right screen  
 
+##### CMD ⌘ + ESC 
 
+  **switch to exact application**
